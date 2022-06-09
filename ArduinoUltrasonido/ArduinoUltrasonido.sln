@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArduinoUltrasonido", "ArduinoUltrasonido\ArduinoUltrasonido.csproj", "{B444D23B-152C-42B0-B875-125888D78C82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B444D23B-152C-42B0-B875-125888D78C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B444D23B-152C-42B0-B875-125888D78C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B444D23B-152C-42B0-B875-125888D78C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B444D23B-152C-42B0-B875-125888D78C82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65CB0398-22ED-4935-BC8A-DCD14E5C2E84}
+	EndGlobalSection
+EndGlobal
